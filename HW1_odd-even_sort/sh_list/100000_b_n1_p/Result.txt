@@ -1,0 +1,72 @@
+Proc:1
+	MAX:
+		All:14.268574, I/O:0.017230, Comm:0.135432 Compute:13.967303
+	AVG:
+		All:14.268574, I/O:0.017230, Comm:0.135432 Compute:13.967303
+
+Proc:2
+	MAX:
+		All:7.603821, I/O:0.019632, Comm:0.338974 Compute:7.005129
+	AVG:
+		All:7.603711, I/O:0.019616, Comm:0.315183 Compute:6.996135
+
+Proc:3
+	MAX:
+		All:6.440311, I/O:0.015131, Comm:3.155037 Compute:5.703850
+	AVG:
+		All:6.439999, I/O:0.014829, Comm:1.355138 Compute:4.721305
+
+Proc:4
+	MAX:
+		All:5.947725, I/O:0.013667, Comm:3.001781 Compute:4.678894
+	AVG:
+		All:5.947490, I/O:0.013427, Comm:1.956696 Compute:3.553119
+
+Proc:5
+	MAX:
+		All:5.514489, I/O:0.018049, Comm:3.500381 Compute:3.866248
+	AVG:
+		All:5.514215, I/O:0.017776, Comm:2.155002 Compute:2.871465
+
+Proc:6
+	MAX:
+		All:5.481654, I/O:0.012977, Comm:3.549449 Compute:3.240664
+	AVG:
+		All:5.481458, I/O:0.012780, Comm:2.531991 Compute:2.421507
+
+Proc:7
+	MAX:
+		All:4.557804, I/O:0.016022, Comm:2.579953 Compute:2.735838
+	AVG:
+		All:4.557549, I/O:0.015770, Comm:1.747339 Compute:2.152418
+
+Proc:8
+	MAX:
+		All:5.537274, I/O:0.030173, Comm:3.878815 Compute:2.448709
+	AVG:
+		All:5.536963, I/O:0.029586, Comm:3.132602 Compute:1.840188
+
+Proc:9
+	MAX:
+		All:4.191638, I/O:0.017440, Comm:2.467570 Compute:2.452159
+	AVG:
+		All:4.191436, I/O:0.017229, Comm:1.759871 Compute:1.722352
+
+Proc:10
+	MAX:
+		All:5.780931, I/O:0.021852, Comm:4.302500 Compute:2.159402
+	AVG:
+		All:5.780712, I/O:0.021637, Comm:3.686137 Compute:1.507136
+
+Proc:11
+	MAX:
+		All:5.948394, I/O:0.023556, Comm:4.506754 Compute:2.013990
+	AVG:
+		All:5.948068, I/O:0.023236, Comm:3.939014 Compute:1.389828
+
+Proc:12
+	MAX:
+		All:4.167393, I/O:0.024081, Comm:2.297197 Compute:2.061167
+	AVG:
+		All:4.166990, I/O:0.023679, Comm:1.754094 Compute:1.422448
+

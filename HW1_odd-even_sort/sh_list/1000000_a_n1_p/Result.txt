@@ -1,0 +1,48 @@
+Proc:3
+	AVG:
+		All:0.264550, I/O:0.081885, Comm:0.000000 Compute:0.182610
+
+Proc:6
+	AVG:
+		All:0.249278, I/O:0.086942, Comm:0.038054 Compute:0.124019
+
+Proc:9
+	AVG:
+		All:0.257595, I/O:0.055427, Comm:0.082016 Compute:0.104481
+
+Proc:12
+	AVG:
+		All:0.439187, I/O:0.258150, Comm:0.070868 Compute:0.094145
+
+Proc:15
+	AVG:
+		All:0.222994, I/O:0.052824, Comm:0.078304 Compute:0.086715
+
+Proc:18
+	AVG:
+		All:0.257209, I/O:0.087945, Comm:0.076483 Compute:0.085021
+
+Proc:21
+	AVG:
+		All:0.214442, I/O:0.050005, Comm:0.079562 Compute:0.081817
+
+Proc:24
+	AVG:
+		All:0.208810, I/O:0.050951, Comm:0.074593 Compute:0.077309
+
+Proc:27
+	AVG:
+		All:0.205780, I/O:0.052864, Comm:0.074664 Compute:0.075056
+
+Proc:30
+	AVG:
+		All:0.197388, I/O:0.050969, Comm:0.070745 Compute:0.071653
+
+Proc:33
+	AVG:
+		All:0.202332, I/O:0.053850, Comm:0.073467 Compute:0.072436
+
+Proc:36
+	AVG:
+		All:0.247753, I/O:0.098830, Comm:0.073127 Compute:0.072912
+
